@@ -1,0 +1,7 @@
+E:\Work\ResumeApp\bin\Debug\ResumeApp.exe.config
+E:\Work\ResumeApp\bin\Debug\ResumeApp.exe
+E:\Work\ResumeApp\bin\Debug\ResumeApp.pdb
+E:\Work\ResumeApp\obj\Debug\ResumeApp.csprojAssemblyReference.cache
+E:\Work\ResumeApp\obj\Debug\ResumeApp.csproj.CoreCompileInputs.cache
+E:\Work\ResumeApp\obj\Debug\ResumeApp.exe
+E:\Work\ResumeApp\obj\Debug\ResumeApp.pdb
