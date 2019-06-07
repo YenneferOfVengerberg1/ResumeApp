@@ -15,7 +15,6 @@ namespace ResumeApp
             string path = $"E:\\Work\\{fileName}";
             path = Path.ChangeExtension(path, $"{resume.Format.Extension}");
             File.WriteAllText(path, $"{resume.User.Name} {resume.User.Surname}");
-            //File.WriteAllText(path, "Anton Abbasov");
         }
     }
 }
