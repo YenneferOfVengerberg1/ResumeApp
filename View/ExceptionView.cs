@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace ResumeApp
 {
-    public class User
+    class ExceptionView
     {
-        public string Name { get; set; }
-        public string Surname { get; set; }
+        public string Exception()
+        {
+            return Console.WriteLine("Your input on format was wrong");
+        }
     }
 }

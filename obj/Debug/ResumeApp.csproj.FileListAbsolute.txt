@@ -5,3 +5,10 @@ E:\Work\ResumeApp\obj\Debug\ResumeApp.csprojAssemblyReference.cache
 E:\Work\ResumeApp\obj\Debug\ResumeApp.csproj.CoreCompileInputs.cache
 E:\Work\ResumeApp\obj\Debug\ResumeApp.exe
 E:\Work\ResumeApp\obj\Debug\ResumeApp.pdb
+D:\Mywork\ResumeApp\bin\Debug\ResumeApp.exe.config
+D:\Mywork\ResumeApp\bin\Debug\ResumeApp.exe
+D:\Mywork\ResumeApp\bin\Debug\ResumeApp.pdb
+D:\Mywork\ResumeApp\obj\Debug\ResumeApp.csprojAssemblyReference.cache
+D:\Mywork\ResumeApp\obj\Debug\ResumeApp.csproj.CoreCompileInputs.cache
+D:\Mywork\ResumeApp\obj\Debug\ResumeApp.exe
+D:\Mywork\ResumeApp\obj\Debug\ResumeApp.pdb
